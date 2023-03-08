@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+tn.movie_budgets.csv
+im.db
+bom.movie_gross.csv
+rt.movie_info.tsv
+rt.reviews.tsv
+tmbd.movies.csv
+
