@@ -32,3 +32,10 @@ Microsoft have decided to enter the business of creating original movies, and th
 3. Next we will use "tn.movie_budgets.csv" which is data from "The numbers" a website that shows how much movies in the box office are making this will help us know whether movie studio will be profitable or which movies are making the most.
 4. Our next data set will be 'tmdb.movies.csv' which is a dataset from The Movie Database (TMDB) which is a community built movie and TV database. containing data dating back to 2008. TMDB's strong international focus and breadth of data is large that is why analysing it will help microsoft studios come up with a studio that will meet market needs
 
+## Data visualization
+We used the following data visualizations
+![trend_yearly](images/trend_yearly.png)
+![best_genres](images/best_genres.png)
+![best_language](images/best_language.png)
+![best_selling_studio](images/best_selling_studio.png)
+![corr_profit](images/corr_profit.png)
