@@ -39,3 +39,24 @@ We used the following data visualizations
 ![best_language](images/best_language.png)
 ![best_selling_studio](images/best_selling_studio.png)
 ![corr_profit](images/corr_profit.png)
+
+
+## Conclusion
+1. Over the years the domestic gross generated from movies has been increasing thus investing in a movie studio would be a good move for our stake holders.
+2.Microsoft may choose to partner with BV,Uni.,WB, Fox and Sony studios because they made the best domestic gross so money invested in a movie together with these companies is likely to generate more profits.
+3.There is no relationship between the length of title of a movie and its income return therefore microsoft can make their movie titles as creative as they wish.
+4 .Microsoft should consider making Action,Adventure,Sci-Fi Action,Adventure,Fantasy Adventure,Animation,Comedy Drama Comedy,Drama,Romance Action,Adventure,Comedy movies because they had over 7 million votes which means most people would prefer them
+5. An increase in production budget also increases profit and worldwide gross income so to make more money mocrosoft will have to put more money in to production
+6. Movies whose original language is (en) english got most votes but also among best selling languages are (fr) French (ja) Japanese (es) Spanish (it) Italian (de) German (ko) Korean which also had above 10000 votes
+7.There is no relationship between vote average and popularity
+
+
+
+# RECOMMENDATIONS
+From the above analysis and visualization my recomendations are
+
+From the analysis i would recommend microsoft to largely focus on producing; action, adventure, comedy, drama, animation and sc-fi as their main genres of movies because they got the most votes meaning people preffered them.
+
+I would recommend microsoft to focus on majorly producing most of their movies with english as their original language because most people voted for movies whose original language is english.
+
+I would recomend microsoft to invest more into movie production budget, Microsoft may choose to partner with BV,Uni.,WB, Fox and Sony studios because it will in return give higher profits because they are the best selling movie studios.
